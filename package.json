@@ -1,0 +1,55 @@
+{
+    "name": "mavis",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+        "@fortawesome/fontawesome-svg-core": "^1.2.32",
+        "@fortawesome/free-solid-svg-icons": "^5.15.1",
+        "@fortawesome/react-fontawesome": "^0.1.14",
+        "@testing-library/jest-dom": "^5.11.6",
+        "@testing-library/react": "^11.2.2",
+        "@testing-library/user-event": "^12.6.0",
+        "datatables.net-buttons": "^1.6.5",
+        "datatables.net-dt": "^1.10.23",
+        "html-to-docx": "^1.1.32",
+        "jquery": "^3.5.1",
+        "react": "^17.0.1",
+        "react-bootstrap": "^1.4.0",
+        "react-bootstrap-dialog": "^0.13.0",
+        "react-confirm-alert": "^2.6.2",
+        "react-datepicker": "^3.4.1",
+        "react-dom": "^17.0.1",
+        "react-idle-timer": "^4.5.0",
+        "react-router-dom": "^5.2.0",
+        "react-scripts": "4.0.1",
+        "react-select": "^4.0.0",
+        "react-to-pdf": "0.0.13",
+        "react-to-print": "^2.12.2",
+        "select2": "4.0.3",
+        "web-vitals": "^0.2.4"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+        "extends": [
+            "react-app",
+            "react-app/jest"
+        ]
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    }
+}
